@@ -1,0 +1,13 @@
+{
+    "name": "clever-running-log"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "express": "2.5.10"
+    , "jade": ">= 0.0.1"
+    , "less": "1.3.0"
+    , "coffee-script": "latest"
+    , "passport": "latest"
+    , "passport-browserid": "latest"
+  }
+}
